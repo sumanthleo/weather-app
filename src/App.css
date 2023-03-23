@@ -1,5 +1,11 @@
 .App {
-  text-align: center;
+  width: 50vw;
+  min-height: 40vh;
+  margin-left: 25vw;
+  display: flex;
+  flex-direction: column;
+  border: 5px rgb(136, 194, 245) dotted;
+  border-radius: 20px;
 }
 
 .App-logo {
